@@ -7,7 +7,7 @@ import m from './Modal.module.css';
 type TabType = 'all' | 'user' | 'system';
 
 const APP_VERSION = '1.0.0';
-const GITHUB_URL = 'https://github.com/your-account/Vara';
+const GITHUB_URL = 'https://github.com/adam9e96/Vara';
 
 function App() {
   // 환경 변수 목록 및 로딩 상태
